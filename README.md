@@ -25,33 +25,39 @@ I'm a **Digital Technology student**, **professional web developer**, and **entr
 
 ---
 
-## 🚀 Past Projects
+## 🚀 Some Of My Past Projects
 
-Here are some of my past works and projects:
+Here are some of my past works and projects :
 
-<p align="center">
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/10-1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/10-1.png" alt="Project 1" width="300"/>
-  </a>
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/8-1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/8-1.png" alt="Project 2" width="300"/>
-  </a>
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/6-1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/6-1.png" alt="Project 3" width="300"/>
-  </a>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 960px; margin: auto;">
 
-<p align="center">
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/7-1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/7-1.png" alt="Project 4" width="300"/>
+  <!-- Row 1 -->
+  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/10-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/10-1.png" alt="Project 1" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/1-1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/1-1.png" alt="Project 5" width="300"/>
+
+  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/8-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/8-1.png" alt="Project 2" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/1.png" alt="Project 6" width="300"/>
+
+  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/6-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/6-1.png" alt="Project 3" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-</p>
+
+  <!-- Row 2 -->
+  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/7-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/7-1.png" alt="Project 4" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/1-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/1-1.png" alt="Project 5" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/1.png" alt="Project 6" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+</div>
 
 
 
