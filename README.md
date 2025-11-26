@@ -31,25 +31,25 @@ Here are some of my past works and projects:
 
 <p align="center">
   <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/10-1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/10-1.png" alt="Project 1" width="320"/>
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/10-1.png" alt="Project 1" width="300"/>
   </a>
   <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/8-1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/8-1.png" alt="Project 2" width="320"/>
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/8-1.png" alt="Project 2" width="300"/>
   </a>
   <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/6-1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/6-1.png" alt="Project 3" width="320"/>
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/6-1.png" alt="Project 3" width="300"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/7-1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/7-1.png" alt="Project 4" width="320"/>
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/7-1.png" alt="Project 4" width="300"/>
   </a>
   <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/1-1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/1-1.png" alt="Project 5" width="320"/>
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/1-1.png" alt="Project 5" width="300"/>
   </a>
   <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/1.png" target="_blank">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/1.png" alt="Project 6" width="320"/>
+    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/1.png" alt="Project 6" width="300"/>
   </a>
 </p>
 
