@@ -68,7 +68,7 @@ Here are some of my past works and projects :
 - 📧 Email: [nmhashim.hafiz@gmail.com](nmhashim.hafiz@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/nurmuhammadhashim](www.linkedin.com/in/nurmuhammadhashim)  
 - 🐦 Instagram: [@nurmuhammadhashim](https://www.instagram.com/nurmuhammadhashim/)  
-- 🌍 Portfolio: [hayze0x.com](https://hayze0x.com)  
+- 🌍 Portfolio: [nurmuhammadhashim.my](https://nurmuhammadhashim.my)  
 
 ---
 
