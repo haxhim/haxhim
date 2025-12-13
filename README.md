@@ -32,29 +32,29 @@ Here are some of my past works and projects :
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 960px; margin: auto;">
 
   <!-- Row 1 -->
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/10-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/10-1.png" alt="Project 1" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/10-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+    <img src="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/10-1.png" alt="Project 1" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/8-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/8-1.png" alt="Project 2" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/8-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+    <img src="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/8-1.png" alt="Project 2" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/6-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+  <a href="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/6-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
     <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/6-1.png" alt="Project 3" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
   <!-- Row 2 -->
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/7-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/7-1.png" alt="Project 4" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/7-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+    <img src="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/7-1.png" alt="Project 4" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/1-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/1-1.png" alt="Project 5" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/1-1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+    <img src="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/1-1.png" alt="Project 5" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
-  <a href="https://www.hayze0x.my/wp-content/uploads/2025/11/1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
-    <img src="https://www.hayze0x.my/wp-content/uploads/2025/11/1.png" alt="Project 6" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/1.png" target="_blank" style="flex: 1 1 calc(33.33% - 20px); max-width: 300px;">
+    <img src="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/1.png" alt="Project 6" style="width: 100%; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
 </div>
