@@ -23,7 +23,8 @@
 const hashim = {
     location: "Malaysia 🇲🇾",
     education: "Diploma in Digital Technology @ Politeknik Ungku Omar",
-    role: "Founder @ Haxion Labs",
+    status: "Internship @ Petronas Digital Sdn Bhd",
+    role: "Solo Founder @ Hax Venture ",
     currentFocus: ["SaaS Development", "AI Integration", "IoT Projects"],
     passion: ["CyberSecurity", "Entrepreneurship", "Digital Innovation"],
     motto: "Combining tech skills and entrepreneurship to make impactful projects"
