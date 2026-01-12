@@ -107,7 +107,7 @@ const hashim = {
 ```javascript
 const achievements = {
     🎓 education: "Digital Technology Student",
-    🏢 founder: "Haxion Labs",
+    🏢 founder: "Hax Venture",
     💼 expertise: ["Web Development", "SaaS", "IoT", "AI Integration"],
     🌟 projects: "Multiple successful client deliveries",
     📈 growth: "Continuously expanding skills and business ventures",
