@@ -1,6 +1,6 @@
 # Hi there, I'm Hashim 👋
 
-I'm a **Digital Technology student**, **professional web developer**, and **entrepreneur** from Malaysia. I build web and software solutions for businesses, organizations, and personal projects.  
+I'm a **CyberSecurity student**, **professional web developer**, and **entrepreneur** from Malaysia. I build web and software solutions for businesses, organizations, and personal projects.  
 
 ---
 
