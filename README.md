@@ -33,7 +33,7 @@ const hashim = {
 
 ### 🎯 What I'm Up To
 
-- 🏢 **Founder of Haxion Labs** — Delivering cutting-edge web solutions, HR systems, and SaaS platforms
+- 🏢 **Founder of Hax Venture** — Delivering cutting-edge web solutions, HR systems, and SaaS platforms
 - 🥋 **Developing HaxCombat** — Revolutionary SaaS tool for sports clubs with smart payment systems
 - 🤖 **Exploring AI & IoT** — Integrating intelligent systems into real-world applications
 - 📚 **Continuous Learning** — Mastering Python, Modern JavaScript frameworks, and AI technologies
