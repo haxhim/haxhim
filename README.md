@@ -76,24 +76,24 @@ const hashim = {
 <table>
 <tr>
 <td width="33%">
-<img src="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/10-1.png" alt="Project 1" width="100%" style="border-radius: 10px;"/>
+<img src="https://haxventure.com/images/past/2025/1.png" alt="Project 1" width="100%" style="border-radius: 10px;"/>
 </td>
 <td width="33%">
-<img src="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/8-1.png" alt="Project 2" width="100%" style="border-radius: 10px;"/>
+<img src="https://haxventure.com/images/past/2025/2.png" alt="Project 2" width="100%" style="border-radius: 10px;"/>
 </td>
 <td width="33%">
-<img src="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/6-1.png" alt="Project 3" width="100%" style="border-radius: 10px;"/>
+<img src="https://haxventure.com/images/past/2025/3.png" alt="Project 3" width="100%" style="border-radius: 10px;"/>
 </td>
 </tr>
 <tr>
 <td width="33%">
-<img src="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/7-1.png" alt="Project 4" width="100%" style="border-radius: 10px;"/>
+<img src="https://haxventure.com/images/past/2025/4.png" alt="Project 4" width="100%" style="border-radius: 10px;"/>
 </td>
 <td width="33%">
-<img src="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/1-1.png" alt="Project 5" width="100%" style="border-radius: 10px;"/>
+<img src="https://haxventure.com/images/past/2025/5.png" alt="Project 5" width="100%" style="border-radius: 10px;"/>
 </td>
 <td width="33%">
-<img src="https://www.nurmuhammadhashim.my/wp-content/uploads/2025/11/1.png" alt="Project 6" width="100%" style="border-radius: 10px;"/>
+<img src="https://haxventure.com/images/past/2025/6.png" alt="Project 6" width="100%" style="border-radius: 10px;"/>
 </td>
 </tr>
 </table>
