@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hashim
 
-### CyberSecurity Student • Web Developer • Entrepreneur
+### CyberSecurity Enthusiast • Web Developer • Entrepreneur
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Building+Software;Building+Businesses;Building+a+Better+Future" alt="Typing SVG" />
