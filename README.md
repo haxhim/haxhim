@@ -189,15 +189,15 @@ const interests = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nurmuhammadhashim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=haxhim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nurmuhammadhashim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haxhim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhammadhashim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxhim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
