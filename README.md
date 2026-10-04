@@ -7,9 +7,12 @@
 
   <p>Building practical software, digital products, and businesses from Malaysia. 🇲🇾</p>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;height=50&amp;lines=Turning+ideas+into+useful+software;Building+Hax+Venture;Developing+Hax Combat;Learning.+Shipping.+Improving." width="680" alt="Turning ideas into useful software. Building Hax Venture. Developing Hax Combat. Learning, shipping, and improving." />
-  </p>
+  <p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Turning+ideas+into+useful+software;Building+Hax+Venture;Developing+HaxCombat;Learning.+Building.+Improving."
+    alt="Typing SVG"
+  />
+</p>
 
   <p>
     <a href="https://nurmhashim.cloud/">
