@@ -1,250 +1,198 @@
 <div align="center">
 
-# 👋 Hi, I'm Hashim
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,55:1D4ED8,100:38BDF8&amp;height=110&amp;section=header" width="100%" alt="" />
 
-### Cybersecurity Enthusiast • Web Developer • Founder • Digital Builder
+  <h1>Hi, I'm Hashim 👋</h1>
+  <h3>Web Developer · Founder · Cybersecurity Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=700&height=100&lines=Building+Software;Building+Businesses;Building+Digital+Products;Solving+Real-World+Problems+With+Tech" alt="Typing SVG" />
-</p>
+  <p>Building practical software, digital products, and businesses from Malaysia. 🇲🇾</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nurmuhammadhashim.my-3B82F6?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://nurmuhammadhashim.my)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nurmuhammadhashim)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/nurmuhammadhashim/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:nmhashim.hafiz@gmail.com)
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;height=50&amp;lines=Turning+ideas+into+useful+software;Building+Hax+Venture;Developing+HaxCombat;Learning.+Shipping.+Improving." width="680" alt="Turning ideas into useful software. Building Hax Venture. Developing HaxCombat. Learning, shipping, and improving." />
+  </p>
 
-</div>
+  <p>
+    <a href="https://nurmhashim.cloud/">
+      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio" />
+    </a>
+    <a href="https://haxventure.com/">
+      <img src="https://img.shields.io/badge/Hax_Venture-0F172A?style=for-the-badge" alt="Visit Hax Venture" />
+    </a>
+    <a href="mailto:nmhashim.hafiz@gmail.com">
+      <img src="https://img.shields.io/badge/Let's_Talk-2563EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Hashim" />
+    </a>
+  </p>
 
----
-
-## 🚀 About Me
-
-```typescript
-const hashim = {
-  location: "Malaysia 🇲🇾",
-  education: "Diploma in Digital Technology @ Politeknik Ungku Omar",
-  experience: "Former Intern @ PETRONAS Digital Sdn Bhd",
-  role: "Founder @ Hax Venture",
-  focus: [
-    "Web Development",
-    "SaaS Platforms",
-    "AI Integration",
-    "Cybersecurity",
-    "Business Automation"
-  ],
-  currentlyBuilding: [
-    "Hax Venture",
-    "HaxCombat",
-    "Web Systems",
-    "Client Digital Solutions"
-  ],
-  mindset: "Build fast. Learn deeply. Execute seriously.",
-  mission: "Turning ideas into useful, scalable, and impactful digital products."
-};
-```
-
-I am a Malaysian developer and entrepreneur passionate about building practical digital solutions for real-world problems.
-
-My journey combines **technical development**, **cybersecurity interest**, and **business execution**. After completing my diploma and internship experience at **PETRONAS Digital Sdn Bhd**, I am now focused on building impactful products, client systems, and digital ventures through **Hax Venture**.
-
-I enjoy creating systems that are not just visually clean, but also functional, scalable, and useful for actual users.
-
----
-
-## 🎯 What I'm Working On
-
-* 🏢 **Building Hax Venture**
-  A digital solutions brand focused on websites, systems, SaaS products, automation, and business technology.
-
-* 🥋 **Developing HaxCombat**
-  A SaaS platform for sports clubs, martial arts organizations, payments, member management, and event operations.
-
-* 🛡️ **Growing in Cybersecurity**
-  Exploring secure system design, web security, vulnerability awareness, and defensive development practices.
-
-* 🤖 **Exploring AI Integration**
-  Building smarter systems using AI tools, automation workflows, and API-based intelligence.
-
-* 🚀 **Creating Digital Products**
-  Turning business problems into software products, internal tools, and scalable platforms.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Core Web
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Frontend & Styling
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-
-### Backend, Database & Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-### AI, APIs & Hardware
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-181818?style=for-the-badge\&logo=anthropic\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge\&logo=espressif\&logoColor=white)
+  <p>
+    <a href="#about">About</a> ·
+    <a href="#what-im-building">Building</a> ·
+    <a href="#selected-work">Projects</a> ·
+    <a href="#tech-stack">Tech Stack</a> ·
+    <a href="#lets-connect">Contact</a>
+  </p>
 
 </div>
 
----
+## About
 
-## 🎨 Featured Projects
+I'm a Malaysian developer and entrepreneur, and the founder of **[Hax Venture](https://haxventure.com/)**. I turn business needs into websites, custom systems, and digital products, with a focus on clear interfaces and practical workflows.
 
-<div align="center">
+My background combines a **Diploma in Digital Technology from Politeknik Ungku Omar** with internship experience at **PETRONAS Digital Sdn Bhd**. Today, I'm building client solutions and my own products while deepening my understanding of cybersecurity and secure development.
+
+> **Build fast. Learn deeply. Execute seriously.**
+
+## What I'm building
 
 <table>
-<tr>
-<td width="33%">
-<img src="https://haxventure.com/images/past/2025/1.png" alt="Project 1" width="100%" style="border-radius: 10px;"/>
-</td>
-<td width="33%">
-<img src="https://haxventure.com/images/past/2025/2.png" alt="Project 2" width="100%" style="border-radius: 10px;"/>
-</td>
-<td width="33%">
-<img src="https://haxventure.com/images/past/2025/3.png" alt="Project 3" width="100%" style="border-radius: 10px;"/>
-</td>
-</tr>
-<tr>
-<td width="33%">
-<img src="https://haxventure.com/images/past/2025/4.png" alt="Project 4" width="100%" style="border-radius: 10px;"/>
-</td>
-<td width="33%">
-<img src="https://haxventure.com/images/past/2025/5.png" alt="Project 5" width="100%" style="border-radius: 10px;"/>
-</td>
-<td width="33%">
-<img src="https://haxventure.com/images/past/2025/6.png" alt="Project 6" width="100%" style="border-radius: 10px;"/>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 Hax Venture</h3>
+      <p><strong>Digital solutions for everyday business needs.</strong></p>
+      <p>Business websites, custom systems, SaaS products, and workflow automation that help organizations get things done.</p>
+      <p><a href="https://haxventure.com/">Explore Hax Venture →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥋 HaxCombat</h3>
+      <p><strong>Software for sports and martial arts communities.</strong></p>
+      <p>Developing a SaaS platform for club administration, member management, payments, and event operations.</p>
+      <p><code>In development</code></p>
+    </td>
+  </tr>
 </table>
 
-</div>
+## Selected work
 
----
+A selection of web experiences and systems from my portfolio. Click a preview to open the full image.
 
-## 🧩 Main Areas of Interest
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://haxventure.com/images/past/2025/1.webp">
+        <img src="https://haxventure.com/images/past/2025/1.webp" width="100%" alt="Sistem XplorKerjaya displayed on desktop and mobile" />
+      </a>
+      <h3>Sistem XplorKerjaya</h3>
+      <p>Career exploration platform</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://haxventure.com/images/past/2025/2.webp">
+        <img src="https://haxventure.com/images/past/2025/2.webp" width="100%" alt="WashDone displayed on desktop and mobile" />
+      </a>
+      <h3>WashDone</h3>
+      <p>Campus laundry companion</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://haxventure.com/images/past/2025/3.webp">
+        <img src="https://haxventure.com/images/past/2025/3.webp" width="100%" alt="BengkelBuddy displayed on desktop and mobile" />
+      </a>
+      <h3>BengkelBuddy</h3>
+      <p>Workshop service platform</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://haxventure.com/images/past/2025/4.webp">
+        <img src="https://haxventure.com/images/past/2025/4.webp" width="100%" alt="AlumniConnect displayed on desktop and mobile" />
+      </a>
+      <h3>AlumniConnect</h3>
+      <p>Alumni networking portal</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://haxventure.com/images/past/2025/5.webp">
+        <img src="https://haxventure.com/images/past/2025/5.webp" width="100%" alt="IoT Psychrometer monitoring dashboard displayed on desktop and mobile" />
+      </a>
+      <h3>IoT Psychrometer</h3>
+      <p>IoT monitoring dashboard</p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://haxventure.com/images/past/2025/6.webp">
+        <img src="https://haxventure.com/images/past/2025/6.webp" width="100%" alt="KEYMAS access management system displayed on desktop and mobile" />
+      </a>
+      <h3>KEYMAS</h3>
+      <p>Access management system</p>
+    </td>
+  </tr>
+</table>
 
-```javascript
-const interests = {
-  cybersecurity: [
-    "Web Security",
-    "Secure System Design",
-    "Vulnerability Awareness",
-    "Defensive Development"
-  ],
-  development: [
-    "Business Websites",
-    "Custom Systems",
-    "SaaS Platforms",
-    "Automation Tools"
-  ],
-  business: [
-    "Digital Products",
-    "Service-Based Business",
-    "Client Solutions",
-    "Tech Entrepreneurship"
-  ],
-  innovation: [
-    "AI Integration",
-    "IoT Projects",
-    "Smart Workflows",
-    "Real-World Problem Solving"
-  ]
-};
-```
+<p align="center">
+  <a href="https://nurmhashim.cloud/#work"><strong>Explore my full portfolio →</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://haxventure.com/">Discover Hax Venture</a>
+</p>
 
----
+## Tech stack
 
-## 🏆 Highlights
+### Languages & core web
 
-* 🎓 Completed Diploma in Digital Technology
-* 🏢 Former intern at PETRONAS Digital Sdn Bhd
-* 🚀 Founder of Hax Venture
-* 💻 Built multiple client websites and systems
-* 🥋 Developing SaaS solutions for sports and club management
-* 🤖 Exploring AI-powered workflows and digital automation
-* 🛡️ Passionate about cybersecurity and secure development
-* 📈 Continuously building skills, products, and business experience
+<p>
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&amp;logo=python&amp;logoColor=FACC15" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&amp;logo=typescript&amp;logoColor=60A5FA" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&amp;logo=html5&amp;logoColor=F97316" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&amp;logo=css&amp;logoColor=A78BFA" alt="CSS3" />
+</p>
 
----
+### Frontend & styling
 
+<p>
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=A78BFA" alt="Bootstrap" />
+</p>
 
-## 💭 Philosophy
+### Backend, data & tools
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=4ADE80" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&amp;logo=postgresql&amp;logoColor=60A5FA" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&amp;logo=git&amp;logoColor=F97316" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge" alt="Visual Studio Code" />
+</p>
+
+### AI, APIs & hardware
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-0F172A?style=for-the-badge&amp;logo=claude&amp;logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/Arduino-0F172A?style=for-the-badge&amp;logo=arduino&amp;logoColor=2DD4BF" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-0F172A?style=for-the-badge&amp;logo=espressif&amp;logoColor=F87171" alt="ESP32" />
+</p>
+
+## Currently exploring
+
+- **Cybersecurity:** web security, secure system design, and defensive development practices.
+- **AI integration:** API integrations, practical AI features, and workflow automation.
+- **Digital products:** turning recurring business problems into useful software and SaaS products.
+
+## Beyond the code
+
+Faith, health, discipline, lifelong learning, and consistency shape how I work. I care about understanding the people behind a problem as much as the technology used to solve it.
+
+## Let's connect
 
 <div align="center">
 
-> **"Building software, building businesses, building a better future."**
+  <h3>Have a business problem that needs better software?</h3>
+  <p>I'm open to freelance projects, collaborations, and meaningful conversations about technology and business.</p>
 
-I believe technology should not only look impressive, but solve real problems.
+  <p><a href="mailto:nmhashim.hafiz@gmail.com"><strong>nmhashim.hafiz@gmail.com</strong></a></p>
 
-Good software is not just about code.
-It is about understanding people, business, systems, and execution.
+  <p>
+    <a href="https://www.linkedin.com/in/nurmhashim">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect with Hashim on LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/nurmhashim/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Follow @nurmhashim on Instagram" />
+    </a>
+    <a href="https://nurmhashim.cloud/">
+      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore my portfolio" />
+    </a>
+  </p>
 
-</div>
+  <p><em>Building software. Building businesses. Building a better future.</em></p>
+  <p>⭐ If something here helps you, consider starring the repository.</p>
 
----
-
-## 🧠 Personal Values
-
-<div align="center">
-
-🕌 Faith-driven discipline
-💪 Health, focus, and consistency
-📚 Lifelong learning
-🚀 Execution over excuses
-🤝 Building value through technology
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm open to collaborations, freelance projects, business opportunities, and meaningful tech conversations.
-
-**📧 Email:** [nmhashim.hafiz@gmail.com](mailto:nmhashim.hafiz@gmail.com)
-**🌐 Website:** [nurmhashim.cloud](https://nurmhashim.cloud)
-**💼 LinkedIn:** [nurmuhammadhashim](https://www.linkedin.com/in/nurmhashim)
-**📸 Instagram:** [@nurmhashim](https://www.instagram.com/nurmhashim/)
-
----
-
-### 💖 Support My Work
-
-If you like what I build:
-
-⭐ Star my repositories
-👀 Follow me for updates
-📨 Reach out for collaborations
-🚀 Let's build something useful together
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting.
-
-**Let's build something amazing. 🚀**
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,55:1D4ED8,100:38BDF8&amp;height=100&amp;section=footer" width="100%" alt="" />
 
 </div>
