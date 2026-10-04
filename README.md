@@ -8,7 +8,7 @@
   <p>Building practical software, digital products, and businesses from Malaysia. 🇲🇾</p>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;height=50&amp;lines=Turning+ideas+into+useful+software;Building+Hax+Venture;Developing+HaxCombat;Learning.+Shipping.+Improving." width="680" alt="Turning ideas into useful software. Building Hax Venture. Developing HaxCombat. Learning, shipping, and improving." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=680&amp;height=50&amp;lines=Turning+ideas+into+useful+software;Building+Hax+Venture;Developing+apextkd;Learning.+Shipping.+Improving." width="680" alt="Turning ideas into useful software. Building Hax Venture. Developing apextkd. Learning, shipping, and improving." />
   </p>
 
   <p>
@@ -52,7 +52,7 @@ My background combines a **Diploma in Digital Technology from Politeknik Ungku O
       <p><a href="https://haxventure.com/">Explore Hax Venture →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🥋 HaxCombat</h3>
+      <h3>🥋 apextkd</h3>
       <p><strong>Software for sports and martial arts communities.</strong></p>
       <p>Developing a SaaS platform for club administration, member management, payments, and event operations.</p>
       <p><code>In development</code></p>
